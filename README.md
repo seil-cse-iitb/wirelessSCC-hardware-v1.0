@@ -2,7 +2,7 @@
 
 The hardware for the SCCs is designed in **Ki-CAD**. This particular folder contains design for the *actuation node* which are deployed in SCCs. 
 
-Actuation nodes control lights, fans and ACs. They are designed in such a way that they can be directly mounted on an 8-channel relay board in order to reduce footprint of the hardware. 
+Actuation nodes control lights, fans and ACs. They are designed in such a way that they can be directly mounted on an 8-channel relay board in order to reduce footprint of the hardware. At max the node can connect to 12 appliances. 
 
 The folder are explained as follows: 
 
